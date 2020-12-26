@@ -11,6 +11,12 @@ I do pretty much anything related to software:
 
 And much more...
 
+## Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=snirshechter&count_private=true" alt="Snir Shechter's github stats">
+</p>
+
 ## Commmunity
 
 I love being a part of the developers community and contributing to it.
