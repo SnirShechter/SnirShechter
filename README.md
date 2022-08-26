@@ -1,6 +1,6 @@
 # Hi, I'm Snir 👋
 
-I'm a software developer based in Israel. I currently work at a stealth startup.
+I'm a software engineer based in Israel.
 
 ## About
 I do pretty much anything related to software:
@@ -17,7 +17,7 @@ And much more...
   <img src="https://github-readme-stats.vercel.app/api?username=snirshechter&count_private=true" alt="Snir Shechter's github stats">
 </p>
 
-## Commmunity
+## Community
 
 I love being a part of the developers community and contributing to it.
 
