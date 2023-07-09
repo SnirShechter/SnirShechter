@@ -1,6 +1,6 @@
 # Hi, I'm Snir 👋
 
-I'm an engineering leader and senior software engineer based in Israel, currently working at Aporia.
+I'm an engineering leader and senior software engineer based in Israel, currently working at A stealth startup.
 
 I love solving problems through software, utilizing my diverse technical skills spanning multiple domains (back-end, front-end, devops etc.).
 
